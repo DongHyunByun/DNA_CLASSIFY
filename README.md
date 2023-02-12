@@ -15,12 +15,12 @@
     1. /sub : 제출파일
     2. /data : input 데이터
     3. DNA.ipynb : 내코드
-    4. dna_1위.ipynb : 공개된 최종순위 1위 코드
-      - 주소 : https://dacon.io/competitions/official/236035/codeshare/7430?page=1&dtype=recent
-      - 파생변수 생성 부분
-      - voteclassifier 
-      - 시드고정
-    5. dna_2위.ipynb : 공개된 최종순위 2위 코드
-      - 주소 : https://dacon.io/competitions/official/236035/codeshare/7487?page=1&dtype=recent
-      - 변수 선택(SNP_03 드롭)
-      - cat feature 선택(SNP_10)
+    4. dna_1위.ipynb : 공개된 최종순위 1위 코드  
+        - 주소 : https://dacon.io/competitions/official/236035/codeshare/7430?page=1&dtype=recent
+        - 파생변수 생성 부분
+        - voteclassifier 
+        - 시드고정
+    5. dna_2위.ipynb : 공개된 최종순위 2위 코드  
+        - 주소 : https://dacon.io/competitions/official/236035/codeshare/7487?page=1&dtype=recent
+        - 변수 선택(SNP_03 드롭)
+        - cat feature 선택(SNP_10)
