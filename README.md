@@ -11,6 +11,7 @@
     1. 유전체관련 15개의 feature을 이용하여 개체의 품종 분류
     2. SNP_01~SNP_15 전처리(원핫코딩, 라벨링 등)
     3. catboost, DNN, LGBM, XGBOOST등 모델사용
+    4. 
 4. **파일설명**
     1. /sub : 제출파일
     2. /data : input 데이터
@@ -24,3 +25,6 @@
         - 주소 : https://dacon.io/competitions/official/236035/codeshare/7487?page=1&dtype=recent
         - 변수 선택(SNP_03 드롭)
         - cat feature 선택(SNP_10)
+        - 
+5. **결과**
+  ![image](https://user-images.githubusercontent.com/50386280/219067153-b6a03905-5968-4aca-892a-bbb0a5cb0878.png)
